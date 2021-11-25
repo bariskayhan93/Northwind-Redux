@@ -49,7 +49,7 @@ class CartSummary extends Component {
           ))}
 
           <DropdownItem divider />
-          <DropdownItem><Button><Link to={"/cart"}>Go to your Cart</Link></Button></DropdownItem>
+          <DropdownItem><Button color='info'><Link to={"/cart"}>Go to your Cart</Link></Button></DropdownItem>
         </DropdownMenu>
       </UncontrolledDropdown>
     );
