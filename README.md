@@ -1,13 +1,13 @@
 ## Getting Started with Redux-Shopping App
 
-## Clone--->https://github.com/bariskayhan93/Northwind-Redux
+## 1.Clone--->https://github.com/bariskayhan93/Northwind-Redux
 
-##  /cd api
+## 2./cd api
 
-##  json-server --watch db.json
+## 3.json-server --watch db.json
 
-##  cd .. dırectory--->northwind-redux
+## 4.cd .. dırectory--->northwind-redux
 
-##  npm install
+## 5.npm install
 
-##  npm start
+## 6.npm start
